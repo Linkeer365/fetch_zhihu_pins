@@ -1,0 +1,6 @@
+Body:
+非常好
+Link: [怎么实现一个简单的数据库系统？](https://www.zhihu.com/question/26802517/answer/1234617717)
+
+Comment:
+

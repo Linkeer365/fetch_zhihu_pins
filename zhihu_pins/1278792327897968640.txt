@@ -1,0 +1,12 @@
+Body:
+Racket这个官方教程太赞了！强烈建议作为各个大学CS101入门课的选择！
+Link: [16 Macros](https://docs.racket-lang.org/guide/macros.html)
+
+Comment:
+惊艳
+这语言竟然跟Julia一样没火，世事难料
+Racket官方做了不少东西来着
+真的太用心了，就算同学们本来不是奔着lisp来的，大概也能感受到这一点
+现在很多教学包都放到Racket的官方库了，比如Pie，SICP一类的
+这样啊，我有空去看看
+

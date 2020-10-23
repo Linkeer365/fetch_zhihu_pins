@@ -1,0 +1,6 @@
+Body:
+LLVM出来洗地了
+Link: [现阶段的编程语言都有什么缺陷？](https://www.zhihu.com/question/399859597/answer/1268778623?utm_source=zhihu&utm_medium=social&utm_oi=879857216579063808)
+
+Comment:
+
