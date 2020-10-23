@@ -9904,3 +9904,483 @@ JavaScript warning: https://static.zhihu.com/heifetz/other.zswsdid.0a0fc6f28c846
 JavaScript warning: https://static.zhihu.com/heifetz/other.zswsdid.0a0fc6f28c84607e8820.js, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript error: https://static.zhihu.com/heifetz/other.zswsdid.0a0fc6f28c84607e8820.js, line 1: TypeError: e[c(...)][c(...)] is not a function
+1603433132703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.1nIHZi080wzS"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603433136942	Marionette	INFO	Listening on port 4347
+1603433137310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: TypeError: e[c(...)][c(...)] is not a function
+1603433423880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.PTOYmmvVdiDU"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603433426994	Marionette	INFO	Listening on port 4935
+1603433427142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: TypeError: e[c(...)][c(...)] is not a function
+1603433619713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.qHZS338S1ARK"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603433622384	Marionette	INFO	Listening on port 5332
+1603433622483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: TypeError: e[c(...)][c(...)] is not a function
+1603433774720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.LyygfVsRu90n"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603433777500	Marionette	INFO	Listening on port 5665
+1603433777999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: TypeError: e[c(...)][c(...)] is not a function
+1603433995447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.fNzjo6ZspPi1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603433998815	Marionette	INFO	Listening on port 6198
+1603433999325	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://static.zhihu.com/heifetz/main.app.7bb83f965c5e70f01957.js, line 34: ResponseError: request https://www.zhihu.com/api/v4/members/logic114514/pins?offset=20&limit=20&includes=data%5B*%5D.upvoted_followees%2Cadmin_closed_comment with extra of {"headers":{"x-ab-param":"li_car_meta=0;pf_noti_entry_num=0;ls_video_commercial=0;tp_clubhyb=0;zr_intervene=0;tsp_hotlist_ui=1;pf_adjust=0;tp_dingyue_video=0;zr_expslotpaid=1;tp_topic_style=0;pf_profile2_tab=0;pf_creator_card=1;li_edu_page=old;li_pl_xj=0;li_sp_mqbk=0;zr_slotpaidexp=1;li_yxzl_new_style_a=1;qap_question_visitor= 0;tp_zrec=0;tp_contents=2;li_panswer_topic=0;zr_rec_answer_cp=open;li_video_section=0;top_test_4_liguangyi=1;li_catalog_card=1;zw_sameq_sorce=999;li_paid_answer_exp=0;zr_sim3=0;li_svip_tab_search=1;qap_question_author=0;li_vip_verti_search=0;se_col_boost=0;se_ffzx_jushen1=0","x-ab-pb":"CkDPC2AL1woPCwELmwu0CuELlgv0C+wKBwyGC0sLJQpMCxIL3AtYC6wL8wuaC+ALuQtSC9cLAAy1C+QKcgsnCj4LEiALAAEAAAAAAAAAAQABAAUAAAAAAAAAAAABAAAAAAAGAA==","x-requested-with":"fetch","x-zse-83":"3_2.0","x-zse-86":"1.0_88YBe4XyNCOfrX28KTOq6H982_SpQTYyK0FBr4uySTYz"},"credentials":"include"} failed, status: 403
+JavaScript error: https://static.zhihu.com/heifetz/main.app.7bb83f965c5e70f01957.js, line 34: ResponseError: request https://www.zhihu.com/api/v4/members/logic114514/pins?offset=10&limit=10&includes=data%5B*%5D.upvoted_followees%2Cadmin_closed_comment with extra of {"headers":{"x-ab-param":"li_car_meta=0;pf_noti_entry_num=0;ls_video_commercial=0;tp_clubhyb=0;zr_intervene=0;tsp_hotlist_ui=1;pf_adjust=0;tp_dingyue_video=0;zr_expslotpaid=1;tp_topic_style=0;pf_profile2_tab=0;pf_creator_card=1;li_edu_page=old;li_pl_xj=0;li_sp_mqbk=0;zr_slotpaidexp=1;li_yxzl_new_style_a=1;qap_question_visitor= 0;tp_zrec=0;tp_contents=2;li_panswer_topic=0;zr_rec_answer_cp=open;li_video_section=0;top_test_4_liguangyi=1;li_catalog_card=1;zw_sameq_sorce=999;li_paid_answer_exp=0;zr_sim3=0;li_svip_tab_search=1;qap_question_author=0;li_vip_verti_search=0;se_col_boost=0;se_ffzx_jushen1=0","x-ab-pb":"CkDPC2AL1woPCwELmwu0CuELlgv0C+wKBwyGC0sLJQpMCxIL3AtYC6wL8wuaC+ALuQtSC9cLAAy1C+QKcgsnCj4LEiALAAEAAAAAAAAAAQABAAUAAAAAAAAAAAABAAAAAAAGAA==","x-requested-with":"fetch","x-zse-83":"3_2.0","x-zse-86":"1.0_G0YqUgL0Q8NpFhOBmHY0oi9BNwNY6XNqhUt0gvUBe7Yz"},"credentials":"include"} failed, status: 403
+JavaScript error: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: TypeError: e[c(...)][c(...)] is not a function
+console.warn: services.settings: main/fxmonitor-breaches sync already running
+la Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.sGVvoPdzBr51"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603434109044	Marionette	INFO	Listening on port 6588
+1603434109162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zhihu.com/heifetz/main.app.7bb83f965c5e70f01957.js, line 34: ResponseError: request https://www.zhihu.com/api/v4/members/logic114514/pins?offset=10&limit=10&includes=data%5B*%5D.upvoted_followees%2Cadmin_closed_comment with extra of {"headers":{"x-ab-param":"li_paid_answer_exp=0;se_ffzx_jushen1=0;pf_creator_card=1;zr_sim3=0;tsp_hotlist_ui=1;pf_noti_entry_num=0;li_panswer_topic=0;li_sp_mqbk=0;ls_video_commercial=0;li_car_meta=0;li_edu_page=old;qap_question_author=0;zr_expslotpaid=1;zr_slotpaidexp=1;li_video_section=0;zr_intervene=0;tp_topic_style=0;pf_adjust=0;li_catalog_card=1;tp_contents=2;li_yxzl_new_style_a=1;qap_question_visitor= 0;se_col_boost=0;tp_dingyue_video=0;zw_sameq_sorce=999;pf_profile2_tab=0;li_vip_verti_search=0;tp_zrec=0;li_svip_tab_search=1;li_pl_xj=0;top_test_4_liguangyi=1;zr_rec_answer_cp=open;tp_clubhyb=0","x-ab-pb":"CkCWC9cKtAqbCwAMAQvkCvQLtQtYCycK3AvXC+wKPgsHDPMLTAsSC3IL4AusC5oLUgvPC+ELuQtLC4YLDwslCmALEiAAAQABAAAAAAAABgAAAQAAAAAAAAAAAAELAAAAAQAFAA==","x-requested-with":"fetch","x-zse-83":"3_2.0","x-zse-86":"1.0_m0Y8o09B68xfoXxys0t0ghU0nG2XbRYqs720o6LyS_Yz"},"credentials":"include"} failed, status: 403
+JavaScript error: https://static.zhihu.com/heifetz/main.app.7bb83f965c5e70f01957.js, line 34: ResponseError: request https://www.zhihu.com/api/v4/members/logic114514/pins?offset=20&limit=20&includes=data%5B*%5D.upvoted_followees%2Cadmin_closed_comment with extra of {"headers":{"x-ab-param":"li_paid_answer_exp=0;se_ffzx_jushen1=0;pf_creator_card=1;zr_sim3=0;tsp_hotlist_ui=1;pf_noti_entry_num=0;li_panswer_topic=0;li_sp_mqbk=0;ls_video_commercial=0;li_car_meta=0;li_edu_page=old;qap_question_author=0;zr_expslotpaid=1;zr_slotpaidexp=1;li_video_section=0;zr_intervene=0;tp_topic_style=0;pf_adjust=0;li_catalog_card=1;tp_contents=2;li_yxzl_new_style_a=1;qap_question_visitor= 0;se_col_boost=0;tp_dingyue_video=0;zw_sameq_sorce=999;pf_profile2_tab=0;li_vip_verti_search=0;tp_zrec=0;li_svip_tab_search=1;li_pl_xj=0;top_test_4_liguangyi=1;zr_rec_answer_cp=open;tp_clubhyb=0","x-ab-pb":"CkCWC9cKtAqbCwAMAQvkCvQLtQtYCycK3AvXC+wKPgsHDPMLTAsSC3IL4AusC5oLUgvPC+ELuQtLC4YLDwslCmALEiAAAQABAAAAAAAABgAAAQAAAAAAAAAAAAELAAAAAQAFAA==","x-requested-with":"fetch","x-zse-83":"3_2.0","x-zse-86":"1.0_BMtqb4L0rTxfo0ty0hYqS498gCNYkHYq1_YqSH90HqOz"},"credentials":"include"} failed, status: 403
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: TypeError: e[c(...)][c(...)] is not a function
+1603434154492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.138It5aYmoYq"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603434157829	Marionette	INFO	Listening on port 6746
+1603434157882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.zhihu.com/heifetz/errorpage.zswsdid.d33243aca6a917d2b372.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/errorpage.zswsdid.d33243aca6a917d2b372.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/errorpage.zswsdid.d33243aca6a917d2b372.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/errorpage.zswsdid.d33243aca6a917d2b372.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/errorpage.zswsdid.d33243aca6a917d2b372.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/errorpage.zswsdid.d33243aca6a917d2b372.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/errorpage.zswsdid.d33243aca6a917d2b372.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/errorpage.zswsdid.d33243aca6a917d2b372.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://static.zhihu.com/heifetz/errorpage.zswsdid.d33243aca6a917d2b372.js, line 1: TypeError: e[c(...)][c(...)] is not a function
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1603434176951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.npJk6mi5NYTR"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603434180441	Marionette	INFO	Listening on port 6861
+1603434180484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zhihu.com/heifetz/main.app.7bb83f965c5e70f01957.js, line 34: ResponseError: request https://www.zhihu.com/api/v4/members/logic114514/pins?offset=20&limit=20&includes=data%5B*%5D.upvoted_followees%2Cadmin_closed_comment with extra of {"headers":{"x-ab-param":"li_edu_page=old;tp_topic_style=0;li_svip_tab_search=1;se_ffzx_jushen1=0;se_col_boost=0;tp_contents=2;li_paid_answer_exp=0;tp_dingyue_video=0;zr_rec_answer_cp=open;zr_sim3=0;tp_zrec=0;qap_question_visitor= 0;zr_slotpaidexp=1;zr_intervene=0;pf_noti_entry_num=0;pf_creator_card=1;zw_sameq_sorce=999;ls_video_commercial=0;pf_adjust=0;tsp_hotlist_ui=1;top_test_4_liguangyi=1;zr_expslotpaid=1;li_catalog_card=1;li_vip_verti_search=0;tp_clubhyb=0;li_yxzl_new_style_a=1;li_sp_mqbk=0;pf_profile2_tab=0;li_car_meta=0;li_panswer_topic=0;qap_question_author=0;li_pl_xj=0;li_video_section=0","x-ab-pb":"CkCaC1IL9As+C3ILlgu5C9cKtQslCmALrAvhC/MLmwvXC88L5AoBC9wLBwzgCxILhgtLC7QKDwsADFgL7AonCkwLEiAAAQAAAAAAAQAFAAAAAAEACwAAAAAAAAEAAAAAAAEGAA==","x-requested-with":"fetch","x-zse-83":"3_2.0","x-zse-86":"1.0_10F0bALq6R2YgUFBYTYBFgL8c_SYghSq8_Nqk7U0cXYz"},"credentials":"include"} failed, status: 403
+JavaScript error: https://static.zhihu.com/heifetz/main.app.7bb83f965c5e70f01957.js, line 34: ResponseError: request https://www.zhihu.com/api/v4/members/logic114514/pins?offset=10&limit=10&includes=data%5B*%5D.upvoted_followees%2Cadmin_closed_comment with extra of {"headers":{"x-ab-param":"li_edu_page=old;tp_topic_style=0;li_svip_tab_search=1;se_ffzx_jushen1=0;se_col_boost=0;tp_contents=2;li_paid_answer_exp=0;tp_dingyue_video=0;zr_rec_answer_cp=open;zr_sim3=0;tp_zrec=0;qap_question_visitor= 0;zr_slotpaidexp=1;zr_intervene=0;pf_noti_entry_num=0;pf_creator_card=1;zw_sameq_sorce=999;ls_video_commercial=0;pf_adjust=0;tsp_hotlist_ui=1;top_test_4_liguangyi=1;zr_expslotpaid=1;li_catalog_card=1;li_vip_verti_search=0;tp_clubhyb=0;li_yxzl_new_style_a=1;li_sp_mqbk=0;pf_profile2_tab=0;li_car_meta=0;li_panswer_topic=0;qap_question_author=0;li_pl_xj=0;li_video_section=0","x-ab-pb":"CkCaC1IL9As+C3ILlgu5C9cKtQslCmALrAvhC/MLmwvXC88L5AoBC9wLBwzgCxILhgtLC7QKDwsADFgL7AonCkwLEiAAAQAAAAAAAQAFAAAAAAEACwAAAAAAAAEAAAAAAAEGAA==","x-requested-with":"fetch","x-zse-83":"3_2.0","x-zse-86":"1.0_zhtqFJLqoX2YgqN0s8N8QAH8STxxS_FB8Txqe6XBNBYz"},"credentials":"include"} failed, status: 403
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: TypeError: e[c(...)][c(...)] is not a function
+1603435009947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.4xc6s6f9Fyr2"
+*** You are running in headless mode.
+1603435107923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.Zr0tMS4bA3Qs"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603435111850	Marionette	INFO	Listening on port 8551
+1603435111865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://static.zhihu.com/heifetz/main.zswsdid.d6202df5084a8a66a01f.js, line 1: TypeError: e[c(...)][c(...)] is not a function
+1603435377071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.hmNPKt4vU3Sz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603435381184	Marionette	INFO	Listening on port 9081
+1603435381402	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+GFX1-]: Receive IPC close with reason=AbnormalShutdown
+_mozprofile.s7JIED77Zv1w"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603435553119	Marionette	INFO	Listening on port 9303
+1603435553715	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1603435795444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.tLRGyDY5FpCZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603435799664	Marionette	INFO	Listening on port 9668
+1603435799842	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1603436050803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.vFUQMhoTPmvT"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603436054348	Marionette	INFO	Listening on port 10027
+1603436054815	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Exiting due to channel error.
+Exiting due to channel error.
+gram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.3CgnIyPLL2hr"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603436103533	Marionette	INFO	Listening on port 10172
+1603436103626	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.ilf6tbKRMWLY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603436133714	Marionette	INFO	Listening on port 10274
+1603436134134	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1603436213786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.LpXpBpFHXhbG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603436217042	Marionette	INFO	Listening on port 10418
+1603436217144	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1603436356782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.yBZMrdeAzOiQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603436360495	Marionette	INFO	Listening on port 10624
+1603436360674	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1603436528634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.H8DRWG9NOTvh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603436531695	Marionette	INFO	Listening on port 10856
+1603436531901	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1603437963575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.gYlqaeWHlvnr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603437966896	Marionette	INFO	Listening on port 13323
+1603437967392	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1603438024366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.pjJZP0YHmlnj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603438027886	Marionette	INFO	Listening on port 13495
+1603438028185	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603438892636	Marionette	INFO	Stopped listening on port 13495
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603438801287	Marionette	INFO	Stopped listening on port 14072
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603438818867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.cAAcS5MiYsxH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603438822543	Marionette	INFO	Listening on port 1128
+1603438822762	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://static.zhihu.com/heifetz/main.app.7bb83f965c5e70f01957.js, line 34: ResponseError: request https://www.zhihu.com/api/v3/oauth/captcha?lang=cn with extra of {"headers":{"x-requested-with":"fetch","X-Ab-Param":"zr_expslotpaid=1;ls_video_commercial=0;qap_question_author=0;pf_profile2_tab=0;li_panswer_topic=0;qap_question_visitor= 0;li_edu_page=old;se_ffzx_jushen1=0;se_col_boost=0;li_car_meta=0;pf_noti_entry_num=0;tp_dingyue_video=0;tp_clubhyb=0;li_video_section=0;li_yxzl_new_style_a=1;li_sp_mqbk=0;top_test_4_liguangyi=1;li_catalog_card=1;li_pl_xj=0;zr_sim3=0;tp_zrec=0;li_vip_verti_search=0;zr_intervene=0;zw_sameq_sorce=999;zr_rec_answer_cp=open;zr_slotpaidexp=1;pf_adjust=0;li_paid_answer_exp=0;tp_contents=2;tsp_hotlist_ui=1;li_svip_tab_search=1;tp_topic_style=0;pf_creator_card=1","X-AB-PB":"CkABC/QLYAtMC5YLmwsADCUK1wvXCuALtQvsChILcgvPC5oLWAsHDLQKuQtLC+QKUgs+C+ELhgusC/MLDwvcCycKEiAAAAAAAAEABQABAAABAAALAAAAAAAAAAEAAAEAAAAABg==","x-xsrftoken":"0dddce31-f193-4b09-acf8-947fa15f1236"},"credentials":"include","method":"POST","body":{}} failed, status: 400
+JavaScript error: https://static.zhihu.com/heifetz/main.app.7bb83f965c5e70f01957.js, line 34: ResponseError: request https://www.zhihu.com/api/v3/oauth/captcha?lang=cn with extra of {"headers":{"x-requested-with":"fetch","X-Ab-Param":"zr_expslotpaid=1;ls_video_commercial=0;qap_question_author=0;pf_profile2_tab=0;li_panswer_topic=0;qap_question_visitor= 0;li_edu_page=old;se_ffzx_jushen1=0;se_col_boost=0;li_car_meta=0;pf_noti_entry_num=0;tp_dingyue_video=0;tp_clubhyb=0;li_video_section=0;li_yxzl_new_style_a=1;li_sp_mqbk=0;top_test_4_liguangyi=1;li_catalog_card=1;li_pl_xj=0;zr_sim3=0;tp_zrec=0;li_vip_verti_search=0;zr_intervene=0;zw_sameq_sorce=999;zr_rec_answer_cp=open;zr_slotpaidexp=1;pf_adjust=0;li_paid_answer_exp=0;tp_contents=2;tsp_hotlist_ui=1;li_svip_tab_search=1;tp_topic_style=0;pf_creator_card=1","X-AB-PB":"CkABC/QLYAtMC5YLmwsADCUK1wvXCuALtQvsChILcgvPC5oLWAsHDLQKuQtLC+QKUgs+C+ELhgusC/MLDwvcCycKEiAAAAAAAAEABQABAAABAAALAAAAAAAAAAEAAAEAAAAABg==","x-xsrftoken":"0dddce31-f193-4b09-acf8-947fa15f1236"},"credentials":"include","method":"POST","body":{}} failed, status: 400
+1603438867014	Marionette	INFO	Stopped listening on port 1128
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603441802474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.9rnUSjm2Fl93"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603441806863	Marionette	INFO	Listening on port 5534
+1603441806955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603441833061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.bJAXrY5UO4YC"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603441836506	Marionette	INFO	Listening on port 5604
+1603441836880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603441838283	Marionette	INFO	Stopped listening on port 5604
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603441877213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.2ObDpki5JUmD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603441880428	Marionette	INFO	Listening on port 5696
+1603441880435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603441909027	Marionette	INFO	Stopped listening on port 5696
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603442048547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.1cKxgz3j8Rfl"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603442052634	Marionette	INFO	Listening on port 5888
+1603442052911	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1603442111571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.TdcCmLyD2SUV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603442115562	Marionette	INFO	Listening on port 6020
+1603442115896	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+te" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.I4y1QMGS5pXV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603442163244	Marionette	INFO	Listening on port 6133
+1603442163547	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1603442241334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.76wihimb4rnC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603442244965	Marionette	INFO	Listening on port 6281
+1603442245168	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Exiting due to channel error.
+Exiting due to channel error.
+ Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603442572996	Marionette	INFO	Stopped listening on port 6688
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603442653130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.DEEpD8oPEkF9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603442656064	Marionette	INFO	Listening on port 6980
+1603442656414	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+x\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.NuhliU0hdL2y"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603442743055	Marionette	INFO	Listening on port 7125
+1603442743117	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1603442772980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.Q4RuhQDzuYFe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603442777429	Marionette	INFO	Listening on port 7230
+1603442777693	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1603442803335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\temp\\rust_mozprofile.1xXMqWLVucOo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603442807231	Marionette	INFO	Listening on port 7335
+1603442807394	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
