@@ -95,7 +95,7 @@ def login():
     driver.save_screenshot(qrcode_path)
     img=Image.open(qrcode_path)
     img.show()
-    print("login!")
+    # print("login!")
 
     # with open("d:/pp.txt","w",encoding="utf-8") as f:
     #     f.write(driver.page_source)
@@ -138,8 +138,8 @@ def login():
     while not "signin" in driver.current_url:
         print("login!")
 
-login()
-sys.exit(0)
+# login()
+# sys.exit(0)
 
 username=input("input username(zhihu.com/people/<username>/pins):")
 
@@ -158,6 +158,7 @@ try:
     num_str=num_str_node.get_attribute("meta")
 except TimeoutException:
     print("need to login!")
+    login()
 
 
 if "," in num_str:
